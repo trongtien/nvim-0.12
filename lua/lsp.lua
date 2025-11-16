@@ -1,0 +1,12 @@
+vim.lsp.enable({
+	"bashls",
+	"lua_ls",
+	"texlab",
+	"cssls",
+	"ts_ls",
+	"rust-analyzer",
+	"helm_ls",
+	"yamlls",
+	"pyright",
+	"tailwindcss",
+})
